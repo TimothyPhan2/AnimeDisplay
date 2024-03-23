@@ -35,11 +35,11 @@ Here's a walkthrough of implemented user stories:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-
+[ezGif](https://ezgif.com/)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Imgur link wasn't working for some reason, so I uploaded a video instead
 
 ## License
 
