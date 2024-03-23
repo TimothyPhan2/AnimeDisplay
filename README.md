@@ -30,10 +30,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[![Watch the video](https://img.youtube.com/vi/M1G_xwZDBwg/hqdefault.jpg)](https://youtu.be/M1G_xwZDBwg)
-
-
-
 https://github.com/TimothyPhan2/VeniVeni/assets/98495706/6aa61f3d-f196-434c-b8aa-7a330f0e1612
 
 
