@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://youtu.be/M1G_xwZDBwg
+[![Watch the video](https://img.youtube.com/vi/M1G_xwZDBwg/default.jpg)](https://youtu.be/M1G_xwZDBwg)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
