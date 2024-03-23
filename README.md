@@ -30,7 +30,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://github.com/TimothyPhan2/VeniVeni/assets/98495706/6aa61f3d-f196-434c-b8aa-7a330f0e1612
+
+
+https://github.com/TimothyPhan2/VeniVeni/assets/98495706/b49c1108-5b51-41f2-81de-fc2059934e16
+
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
