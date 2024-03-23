@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<video src="https://youtu.be/M1G_xwZDBwg" autoplay loop muted>
+<video src="https://youtu.be/M1G_xwZDBwg" autoplay loop muted/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
