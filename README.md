@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 
 <a href="https://youtu.be/M1G_xwZDBwg" target="_blank">
- <img src="https://img.youtube.com/vi/M1G_xwZDBwg/default.jpg" alt="Watch the video" width="500" border="10" />
+ <img src="https://img.youtube.com/vi/M1G_xwZDBwg/default.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
 
 <!-- Replace this with whatever GIF tool you used! -->
